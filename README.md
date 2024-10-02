@@ -40,6 +40,28 @@ Precision = True Positives / (True Positives + False Positives)
 Recall = True Positives / (True Positives + False Negatives)
 
 
-Demo on one image:
+# Demo on one image:
+
+Extracted Text:
+HERBALIFE
+BeverageMix
+Regumenents
+Bebida en Polvo
+Protein-based snack for energy and nutrition
+Bocadillo de proteina para energia y nutricion
+enay
+caa un
+wild berry
+moras
+silvestres
+naturally flavored
+sabores naturales
+15g
+NET WT | PESO NETO: 9.88 OZ (280g
+PROTEIN
+PROTEINA
+
+
+
 ![image](https://github.com/user-attachments/assets/0475182f-c812-4dcb-8b93-c3a24a1bf9be)
 
