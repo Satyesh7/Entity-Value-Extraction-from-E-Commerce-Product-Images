@@ -39,3 +39,7 @@ where:
 Precision = True Positives / (True Positives + False Positives)
 Recall = True Positives / (True Positives + False Negatives)
 
+
+Demo on one image:
+![image](https://github.com/user-attachments/assets/0475182f-c812-4dcb-8b93-c3a24a1bf9be)
+
