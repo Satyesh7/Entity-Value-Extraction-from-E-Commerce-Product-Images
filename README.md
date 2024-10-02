@@ -63,7 +63,9 @@ PROTEINA
 
 
 Entity_type: Weight
+
 Entity_Value: 9.88 OZ
+
 Extracted_Value: 9.88 OZ
 
 
